@@ -9,7 +9,7 @@
 ## Welcome to my profile
 
 • My name is Rebeca Lameira <br>
-• I'm 26 years old <br>
+• I'm 28 years old <br>
 • Computer Engineer <br>
 • Master's student in Applied Computing - Data Science <br>
 • Front-End Developer <br>
