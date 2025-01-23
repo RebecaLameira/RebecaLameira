@@ -1,8 +1,9 @@
 ## Bem-vindo ao meu perfil
 
 • Me chamo Rebeca Lameira <br>
-• Tenho 26 anos <br>
+• Tenho 28 anos <br>
 • Engenheira de Computação <br>
+• Mestranda de Computação Aplicada - Ciencias de Dados <br> 
 • Desenvolvedora Front-End <br>
 
 ## Welcome to my profile
@@ -10,6 +11,7 @@
 • My name is Rebeca Lameira <br>
 • I'm 26 years old <br>
 • Computer Engineer <br>
+• Master's student in Applied Computing - Data Science <br>
 • Front-End Developer <br>
 
 ##
